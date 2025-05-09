@@ -96,3 +96,8 @@ vercel
 - Historical data visualization
 - Mobile app with React Native
 
+---
+
+## License
+
+- This project is licensed under the MIT License.
